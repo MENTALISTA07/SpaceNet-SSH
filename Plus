@@ -210,17 +210,17 @@ echo -e "\n\033[0;36mVERIFICANDO LINK's DE PENDÊNCIAS... \033[0m" ; rm $_Ink/li
     echo "clear" >>/root/.bashrc
     echo 'DATE=$(date +"%d-%m-%y")' >>/root/.bashrc
     echo 'TIME=$(date +"%T")' >>/root/.bashrc
-    echo 'figlet -k SSH-PLUS | lolcat' >>/root/.bashrc
+    echo 'figlet -k SPACE NET | lolcat' >>/root/.bashrc
     echo 'echo -e " NOME DO SERVIDOR : $HOSTNAME"' >>/root/.bashrc
     echo 'echo -e " SERVIDOR LIGADO À : $(uptime -p)"' >>/root/.bashrc
     echo 'echo -e " DATA : $DATE"' >>/root/.bashrc
     echo 'echo -e " HORA : $TIME"' >>/root/.bashrc
-    echo 'echo -e "@ALFAINTERNET"' >>.bashrc
+    echo 'echo -e "@SpaceNet_SSH"' >>.bashrc
     echo 'echo -e "\033[0;37m DIGITE ( menu ) PARA ENTRAR\033[0m."' >>/root/.bashrc
     echo 'echo -e ""' >>/root/.bashrc
     date=$(date '+%Y-%m-%d <> %H:%M:%S')
     echo -e "\033[1;37m $system                          $date"
-    figlet "SSH-PLUS" | lolcat
+    figlet "SPACE NET" | lolcat
     echo -e "\033[01;31m║\033[0;37m\033[5;34;47m                INSTALACAO CONCLUIDA               \033[0;34m \033[0m\033[01;31m║"
     echo -e "\033[01;31m║\033[0;34mPARA INICIAR DIGITE: \033[0mmenu\033[0m"
     echo -e "\033[01;31m║\033[0;34m MAIS INFORMACOES \033[0;37m(\033[1;36mTELEGRAM NO CANAL\033[0;37m): \033[0;32m@SpaceNet_SSH\033[0m"
