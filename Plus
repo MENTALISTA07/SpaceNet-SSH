@@ -25,10 +25,10 @@ fun_bar() {
         touch $HOME/fim
     ) >/dev/null 2>&1 &
     tput civis
-    echo -ne "\033[0;37m❪\033[0;34mAGUARDE \033[1;37m> \033[1;32m|"
+    echo -ne "\033[0;37m❪\033[0;34mAGUARDE \033[1;37m> \033[1;32m➠"
     while true; do
         for ((i = 0; i < 13; i++)); do
-            echo -ne "\033[0;36m◨◧"
+            echo -ne "\033[0;36m▓"
             sleep 0.2s
         done
         [[ -e $HOME/fim ]] && rm $HOME/fim && break
