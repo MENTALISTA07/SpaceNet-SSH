@@ -196,7 +196,7 @@ echo -e "\n\033[0;36mVERIFICANDO LINK's DE PENDÊNCIAS... \033[0m" ; rm $_Ink/li
     fun_bar 'otimize_python'
     clear
     echo ""
-    echo -e "              \033[0;34m[\033[0;37m!\033[0;34m] \033[1;32mFINALIZANDO \033[0;34m[\033[0;37m!\033[0;34m] \033[0m"
+    echo -e "              \033[0;34m[\033[0;37m⎚\033[0;34m] \033[1;32mFINALIZANDO \033[0;34m[\033[0;37m⎚\033[0;34m] \033[0m"
     echo ""
     echo -e "      \033[0;34mCONCLUINDO FUNÇÕES E DEFINIÇÕES! \033[0m"
     echo ""
