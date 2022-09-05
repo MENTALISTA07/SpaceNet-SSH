@@ -17,6 +17,5 @@ Só joga na máquina e deixar instalar
 
 • instala recursos e o script
 ```
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/MENTALISTA07/SpaceNet_SSH/main/ssh-plus)
-
+apt update -y && apt upgrade -y && wget raw.githubusercontent.com/MENTALISTA07/SpaceNet_SSH/main/Plus && chmod 777 Plus && ./Plus
 ```
