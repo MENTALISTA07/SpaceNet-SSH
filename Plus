@@ -186,8 +186,11 @@ echo -e "\n\033[0;36mVERIFICANDO LINK's E DEPENDÊNCIAS... \033[0m" ; rm $_Ink/l
         pip install speedtest-cli
     }
     fun_bar 'inst_pct'
+    echo -e "\033[0;34mATIVANDO PORTAS NECESSÁRIAS PRA USO !\033[0m"
+    sleep 4s
     [[ -f "/usr/sbin/ufw" ]] && ufw allow 443/tcp
     ufw allow 80/tcp
+    ufw allow 8181/tcp
     ufw allow 3128/tcp
     ufw allow 8799/tcp
     ufw allow 8080/tcp
