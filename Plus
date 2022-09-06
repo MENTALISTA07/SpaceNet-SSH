@@ -32,11 +32,11 @@ fun_bar() {
             sleep 0.3s
         done
         [[ -e $HOME/fim ]] && rm $HOME/fim && break
-        echo -e "\033[1;32m|"
+        echo -e "\033[1;37m⟨"
         sleep 1s
         tput cuu1
         tput dl1
-        echo -ne "\033[0;37m❪\033[0;34mAGUARDE \033[1;37m> \033[1;32m|"
+        echo -ne "\033[0;37m❪\033[0;34mAGUARDE \033[1;37m> \033[1;37m⟩"
     done
     echo -e "\033[0;34m]\033[1;37m -\033[1;32m OK !\033[1;37m"
     tput cnorm
@@ -117,8 +117,8 @@ echo -e "\n\033[0;36mVERIFICANDO LINK's E DEPENDÊNCIAS... \033[0m" ; rm $_Ink/l
     chmod 777 licence >/dev/null 2>&1
     cd >/dev/null 2>&1
     #-----------------------------------------------------------------------------------------------------------------
-    echo -e "\033[0;36m VERIFICANDO CHAVE DE \033[0;37mATIVAÇÃO"
-    sleep 3s
+    echo -e "\033[0;36mVERIFICANDO CHAVE DE \033[0;37mATIVAÇÃO"
+    sleep 5s
     echo ""
     echo -e "\n\033[1;32mCHAVE DE ATIVAÇÃO VALIDA!\033[1;32m"
     sleep 3s
@@ -197,7 +197,7 @@ echo -e "\n\033[0;36mVERIFICANDO LINK's E DEPENDÊNCIAS... \033[0m" ; rm $_Ink/l
     echo ""
     echo -e "              \033[0;34m[\033[0;37m!\033[0;34m] \033[1;32mFINALIZANDO \033[0;34m[\033[0;37m!\033[0;34m] \033[0m"
     echo ""
-    echo -e "      \033[0;34mOTIMIZANDO PYTHON \033[0m"
+    echo -e "      \033[0;34mAPRIMORANDO O PYTHON \033[0m"
     echo ""
     fun_bar 'otimize_python'
     clear
