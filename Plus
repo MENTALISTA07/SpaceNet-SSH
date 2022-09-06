@@ -117,6 +117,8 @@ echo -e "\n\033[0;36mVERIFICANDO LINK's E DEPENDÊNCIAS... \033[0m" ; rm $_Ink/l
     chmod 777 licence >/dev/null 2>&1
     cd >/dev/null 2>&1
     #-----------------------------------------------------------------------------------------------------------------
+    echo -e "\033[0;36m VERIFICANDO CHAVE DE \033[0;37mATIVAÇÃO"
+    echo -e ""
     echo -e "\n\033[1;32mCHAVE DE ATIVAÇÃO VALIDA!\033[1;32m"
     sleep 3s
     echo ""
@@ -125,6 +127,7 @@ echo -e "\n\033[0;36mVERIFICANDO LINK's E DEPENDÊNCIAS... \033[0m" ; rm $_Ink/l
         figlet "SPACE - NET" | lolcat
         echo "SCRIPT EM DESENVOLVIMENTO !! Bay @MENT4LL" 
         echo -e "\033[01;31m●❯─────────────────────────────────────────────────────────────────❮●\033[0m"
+        echo -e "${white}${1}${end}"
         echo -e "\033[0;34mOPA DETECTAMOS..."
         echo -e "\033[01;31m●❯─────────────────────────────────────────────────────────────────❮●\033[0m"
         echo -e "\033[1;34mDADOS DE USUÁRIOS ENCONTRADO!"
