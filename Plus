@@ -75,8 +75,6 @@ otimize_python() {
     #SETAR PYTHON3
     update-alternatives --set python3 /usr/bin/python3.6
 }
-echo "SCRIPT EM DESENVOLVIMENTO !!"
-echo -e "${green}${1}${end}"
 echo -e "\033[01;31m║\033[0;37m\033[5;34;47m                ATUALIZANDO OS REPOSITÓRIOS !            \033[0;34m \033[0m\033[01;31m║"
     sleep 5s
     dpkg --configure -a
@@ -84,6 +82,8 @@ echo -e "\033[01;31m║\033[0;37m\033[5;34;47m                ATUALIZANDO OS REP
     apt install unzip python3 -y
     clear
     echo ""
+    echo "SCRIPT EM DESENVOLVIMENTO !!"
+    echo -e "${green}${1}${end}" 
     figlet "SPACE - NET" | lolcat
 echo -e "\033[01;31m●❯─────────────────────────────────────────────────────────────────❮●\033[0m"
 echo ""
