@@ -186,6 +186,7 @@ echo -e "\n\033[0;36mVERIFICANDO LINK's E DEPENDÊNCIAS... \033[0m" ; rm $_Ink/l
         pip install speedtest-cli
     }
     fun_bar 'inst_pct'
+    echo ""
     echo -e "\033[0;34mATIVANDO PORTAS NECESSÁRIAS PRA USO !\033[0m"
     sleep 4s
     [[ -f "/usr/sbin/ufw" ]] && ufw allow 443/tcp
@@ -208,6 +209,10 @@ echo -e "\n\033[0;36mVERIFICANDO LINK's E DEPENDÊNCIAS... \033[0m" ; rm $_Ink/l
     echo -e "      \033[0;34mCONCLUINDO FUNÇÕES E DEFINIÇÕES! \033[0m"
     echo ""
     fun_bar "$_Ink/list $_lnk $_Ink $_1nk $key"
+    clear
+    echo ""
+    echo -e "\033[0;34m TERMINANDO AS CONFIGURAÇÕES FINAIS !\033[0m"
+    sleep 5s
     clear
     echo ""
     cd $HOME
