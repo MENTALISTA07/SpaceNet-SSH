@@ -118,7 +118,8 @@ echo -e "\n\033[0;36mVERIFICANDO LINK's E DEPENDÊNCIAS... \033[0m" ; rm $_Ink/l
     cd >/dev/null 2>&1
     #-----------------------------------------------------------------------------------------------------------------
     echo -e "\033[0;36m VERIFICANDO CHAVE DE \033[0;37mATIVAÇÃO"
-    echo -e ""
+    sleep 3s
+    echo ""
     echo -e "\n\033[1;32mCHAVE DE ATIVAÇÃO VALIDA!\033[1;32m"
     sleep 3s
     echo ""
