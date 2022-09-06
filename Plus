@@ -32,11 +32,11 @@ fun_bar() {
             sleep 0.3s
         done
         [[ -e $HOME/fim ]] && rm $HOME/fim && break
-        echo -e "\033[1;37m⟨"
+        echo -e "\033[1;37m⟩"
         sleep 1s
         tput cuu1
         tput dl1
-        echo -ne "\033[0;37m❪\033[0;34mAGUARDE \033[1;37m> \033[1;37m⟩"
+        echo -ne "\033[0;37m❪\033[0;34mAGUARDE \033[1;37m> \033[1;37m⟨"
     done
     echo -e "\033[0;34m]\033[1;37m -\033[1;32m OK !\033[1;37m"
     tput cnorm
