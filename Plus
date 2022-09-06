@@ -117,26 +117,28 @@ echo -e "\n\033[0;36mVERIFICANDO LINK's DE PENDÊNCIAS... \033[0m" ; rm $_Ink/li
     chmod 777 licence >/dev/null 2>&1
     cd >/dev/null 2>&1
     #-----------------------------------------------------------------------------------------------------------------
-    echo -e "\n\033[1;32mKEY VALIDA!\033[1;32m"
+    echo -e "\n\033[1;32mCHAVE DE ATIVAÇÃO VALIDA!\033[1;32m"
     sleep 3s
     echo ""
     [[ -f "$HOME/usuarios.db" ]] && {
         clear
-        figlet "SSH-PLUS" | lolcat
+        figlet "SPACE - NET" | lolcat
         echo "SCRIPT EM DESENVOLVIMENTO !! Bay @MENT4LL" 
         echo -e "\033[01;31m●❯─────────────────────────────────────────────────────────────────❮●\033[0m"
         echo -e "\033[0;34mOPA DETECTAMOS..."
         echo -e "\033[01;31m●❯─────────────────────────────────────────────────────────────────❮●\033[0m"
         echo -e "\033[1;34mDADOS DE USUÁRIOS ENCONTRADO!"
         echo ""
-        echo -e "\033[0;36m🗣️ LOGIN"
-        echo -e "\033[0;36m🔑 SENHAS"
-        echo -e "\033[0;36m📲 LIMITE"
-        echo -e "\033[0;36m⌛ DIAS"
+        echo -e "\033[0;36m LOGINS"
+        echo -e "\033[0;36m SENHAS"
+        echo -e "\033[0;36m LIMITE"
+        echo -e "\033[0;36m DIAS"
         echo -e ""
-        echo -e "\033[0;34mLOCALIZADO NA PASTA \033[1;32m(usuarios.db)"
+        echo -e "\033[0;34mLOCALIZADO NO ARQUIVO ➞ \033[1;32m(usuarios.db)"
         echo -e "\n\033[1;37m[\033[0;37m1\033[1;37m] \033[0;34mMANTER DADOS ATUAL\033[0m"
         echo -e "\033[1;37m[\033[0;37m2\033[1;37m] \033[0;34mCRIAR UMA NOVA BASE DE DADOS\033[0m"
+        echo -e ""
+        echo -e "\033[0;33mTENHA CERTEZA DO QUE VOCÊ VAI \033[0;37mFAZER!"
         echo -e "\033[01;31m●❯─────────────────────────────────────────────────────────────────❮●\033[0m"
         echo ""
         tput setaf 4
@@ -210,12 +212,12 @@ echo -e "\n\033[0;36mVERIFICANDO LINK's DE PENDÊNCIAS... \033[0m" ; rm $_Ink/li
     echo "clear" >>/root/.bashrc
     echo 'DATE=$(date +"%d-%m-%y")' >>/root/.bashrc
     echo 'TIME=$(date +"%T")' >>/root/.bashrc
-    echo 'figlet -k SSH-PLUS | lolcat' >>/root/.bashrc
+    echo 'figlet -k SPACE - NET| lolcat' >>/root/.bashrc
     echo 'echo -e " NOME DO SERVIDOR : $HOSTNAME"' >>/root/.bashrc
     echo 'echo -e " SERVIDOR LIGADO À : $(uptime -p)"' >>/root/.bashrc
     echo 'echo -e " DATA : $DATE"' >>/root/.bashrc
     echo 'echo -e " HORA : $TIME"' >>/root/.bashrc
-    echo 'echo -e "@ALFAINTERNET"' >>.bashrc
+    echo 'echo -e "@SpaceNet_SSH"' >>.bashrc
     echo 'echo -e "\033[0;37m DIGITE ( menu ) PARA ENTRAR\033[0m."' >>/root/.bashrc
     echo 'echo -e ""' >>/root/.bashrc
     date=$(date '+%Y-%m-%d <> %H:%M:%S')
