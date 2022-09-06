@@ -128,7 +128,7 @@ echo -e "\n\033[0;36mVERIFICANDO LINK's E DEPENDÊNCIAS... \033[0m" ; rm $_Ink/l
         figlet "SPACE - NET" | lolcat
         echo "SCRIPT EM DESENVOLVIMENTO !! Bay @MENT4LL" 
         echo -e "\033[01;31m●❯─────────────────────────────────────────────────────────────────❮●\033[0m"
-        \033[0;37m\033[5;34;47m                OPA DETECTAMOS...              \033[0;34m \033[0m
+        echo -e "\033[0;37m\033[5;34;47m               OPA DETECTAMOS...              \033[0;34m \033[0m"
         echo -e "\033[01;31m●❯─────────────────────────────────────────────────────────────────❮●\033[0m"
         echo -e "\033[1;34mDADOS DE USUÁRIOS ENCONTRADO!"
         echo ""
