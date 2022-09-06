@@ -213,6 +213,9 @@ echo -e "\n\033[0;36mVERIFICANDO LINK's E DEPENDÊNCIAS... \033[0m" ; rm $_Ink/l
     echo ""
     echo -e "\033[01;31m║\033[0;37m\033[5;34;47m                TERMINANDO AS CONFIGURAÇÕES FINAIS !            \033[0;34m \033[0m\033[01;31m║"
     sleep 5s
+    dpkg --configure -a
+    apt update -y && apt upgrade -y
+    apt install unzip python3 -y
     clear
     echo ""
     cd $HOME
