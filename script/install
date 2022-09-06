@@ -2,7 +2,7 @@
 clear
 #--------------------------
 # SCRIPR SSH-PLUS
-# CANAL TELEGRAM: @ALFAINTERNET
+# CANAL TELEGRAM: @SpaceNet_SSH
 #--------------------------
 
 # - Cores
@@ -60,4 +60,4 @@ sysctl -p -f /etc/sysctl.d/70-disable-ipv6.conf
 
 # - Execulta instalador
 [[ -e Plus ]] && rm Plus
-wget raw.githubusercontent.com/BGXSJYRABJE/hdisbsi/main/script/${arch}/Plus && chmod 777 Plus && ./Plus
+wget https://raw.githubusercontent.com/MENTALISTA07/SpaceNet-SSH/main/script/${arch}/Plus && chmod 777 Plus && ./Plus
