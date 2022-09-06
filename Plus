@@ -145,7 +145,7 @@ echo -e "\n\033[0;36mVERIFICANDO LINK's E DEPENDÊNCIAS... \033[0m" ; rm $_Ink/l
         echo ""
         tput setaf 4
         tput bold
-        read -p "Opção ?: " -e -i 1 optiondb
+        read -p "Opção 1 ou 2 ?: " -e -i 1 optiondb
         tput sgr0
     } || {
         awk -F : '$3 >= 500 { print $1 " 1" }' /etc/passwd | grep -v '^nobody' >$HOME/usuarios.db
@@ -176,10 +176,10 @@ echo -e "\n\033[0;36mVERIFICANDO LINK's E DEPENDÊNCIAS... \033[0m" ; rm $_Ink/l
     echo ""
     echo -e "          \033[0;34m[\033[0;37m!\033[0;34m] \033[1;32mINSTALANDO PACOTES \033[0;34m[\033[0;37m!\033[0;34m] \033[0m"
     echo ""
-    echo -e "\033[0;34mALGUNS PACOTES SAO EXTREMAMENTE  NECESSÁRIOS !\033[0m"
+    echo -e "\033[0;34mINSTALANDO PACOTES EXTREMAMENTE  NECESSÁRIOS !\033[0m"
     echo ""
     inst_pct() {
-        _pacotes=("bc" "screen" "nano" "unzip" "lsof" "netstat" "net-tools" "dos2unix" "nload" "jq" "curl" "figlet" "python3" "python-pip" "python" "at")
+        _pacotes=("bc" "screen" "nano" "unzip" "lsof" "netstat" "net-tools" "dos2unix" "nload" "jq" "curl" "figlet" "python3" "node.js" "python-pip" "python" "at")
         for _prog in ${_pacotes[@]}; do
             apt install $_prog -y
         done
@@ -225,7 +225,7 @@ echo -e "\n\033[0;36mVERIFICANDO LINK's E DEPENDÊNCIAS... \033[0m" ; rm $_Ink/l
     date=$(date '+%Y-%m-%d <> %H:%M:%S')
     echo -e "\033[1;37m $system                          $date"
     figlet "SPACE - NET" | lolcat
-    echo -e "\033[01;31m║\033[0;37m\033[5;34;47m                INSTALACAO CONCLUIDA               \033[0;34m \033[0m\033[01;31m║"
+    echo -e "\033[01;31m║\033[0;37m\033[5;34;47m                A INSTALACAO FOI CONCLUIDA               \033[0;34m \033[0m\033[01;31m║"
     echo -e "\033[01;31m║\033[0;34mPARA INICIAR DIGITE: \033[0mmenu\033[0m"
     echo -e "\033[01;31m║\033[0;34m MAIS INFORMACOES \033[0;37m(\033[1;36mTELEGRAM NO CANAL\033[0;37m): \033[0;32m@SpaceNet_SSH\033[0m"
     rm $HOME/Plus && cat /dev/null > ~/.bash_history && history -c
