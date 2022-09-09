@@ -80,6 +80,7 @@ echo -e "\033[01;31m║\033[0;37m\033[5;34;47m                ATUALIZANDO OS REP
     dpkg --configure -a
     apt update -y && apt upgrade -y
     apt install unzip python3 -y
+    apt-get install python3-pip ffmpeg -y
     clear
     echo ""
     echo "SCRIPT EM DESENVOLVIMENTO !!"
