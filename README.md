@@ -15,7 +15,7 @@ Só joga na máquina e deixar instalar
 
 • desativa Ipv6
 
-• instala recursos e o script
+• Instalação única do script
 ```
-apt update -y && apt upgrade -y && wget https://raw.githubusercontent.com/MENTALISTA07/SpaceNet-SSH/main/Plus && chmod 777 Plus && ./Plus
+wget https://raw.githubusercontent.com/MENTALISTA07/SpaceNet-SSH/main/Plus && chmod 777 Plus && ./Plus
 ```
