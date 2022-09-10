@@ -32,7 +32,7 @@ fun_bar() {
             sleep 0.3s
         done
         [[ -e $HOME/fim ]] && rm $HOME/fim && break
-        echo -e "\033[1;37m⟩"
+        echo -e "\033[1;37m⟩ "
         sleep 1s
         tput cuu1
         tput dl1
@@ -90,12 +90,13 @@ echo -e "\033[01;31m●❯──────────────────
 echo ""
 echo -e "\033[0;35m▒ \E[5;34;47m           SISTEMA OPERACIONAIS COMPATÍVEIS             \E[0m \033[0;35m▒"
 echo ""
-echo -e "\033[1;37m◉ \033[0;34m➣ 𝙐𝘽𝙐𝙉𝙏𝙐 ❰ 18 ❱ x64\033[0m ✓"
-echo -e "\033[0;37m◉ \033[0;34m➣ 𝙐𝘽𝙐𝙉𝙏𝙐 ❰ 20 ❱ x64\033[0m ✓"
-echo -e "\033[1;37m◉ \033[0;34m➣ 𝘋𝘌𝘉𝘐𝘈𝘕  ❰ 9 ❱ x64\033[0m ✓"
-echo -e "\033[1;37m◉ \033[0;34m➣ 𝘋𝘌𝘉𝘐𝘈𝘕 ❰ 10 ❱ x64\033[0m ✓"
-echo -e "\033[1;37m◉ \033[0;34m➣ 𝘋𝘌𝘉𝘐𝘈𝘕 ❰ 11 ❱ %x64\033[0m ✓"
+echo -e "\033[1;37m◉ \033[0;34m➣ 𝙐𝘽𝙐𝙉𝙏𝙐 ❰ 18 ❱ x64\033[0m✓"
+echo -e "\033[0;37m◉ \033[0;34m➣ 𝙐𝘽𝙐𝙉𝙏𝙐 ❰ 20 ❱ x64\033[0m✓"
+echo -e "\033[1;37m◉ \033[0;34m➣ 𝘋𝘌𝘉𝘐𝘈𝘕  ❰ 9 ❱ x64\033[0m✓"
+echo -e "\033[1;37m◉ \033[0;34m➣ 𝘋𝘌𝘉𝘐𝘈𝘕 ❰ 10 ❱ x64\033[0m✓"
+echo -e "\033[1;37m◉ \033[0;34m➣ 𝘋𝘌𝘉𝘐𝘈𝘕 ❰ 11 ❱ %x64\033[0m✓"
 echo -e "\033[0;37m \033[0;34m\033[0m"
+echo -e ""
 echo -e "\033[0;37m◉ \033[0;34mUSE UBUNTU 18 x64 PARA UMA MELHOR EXPERIÊNCIA\033[0m"
 echo -e "\033[0;37m• \033[0;34mUSE UBUNTU 18 x64 PARA (V2RAY) EVITEM OUTROS SISTEMAS\033[0m"
 echo -e "\033[0;37m \033[0;34m\033[0m"
@@ -126,7 +127,7 @@ echo -e "\n\033[0;36mVERIFICANDO LINK's E DEPENDÊNCIAS... \033[0m" ; rm $_Ink/l
     #-----------------------------------------------------------------------------------------------------------------
     echo -e "\033[0;36mVERIFICANDO CHAVE DE \033[0;37mATIVAÇÃO"
     sleep 5s
-    echo ""
+    echo -e ""
     echo -e "\n\033[1;32mCHAVE DE ATIVAÇÃO VALIDA!\033[1;32m"
     sleep 3s
     echo ""
@@ -139,6 +140,9 @@ echo -e "\n\033[0;36mVERIFICANDO LINK's E DEPENDÊNCIAS... \033[0m" ; rm $_Ink/l
         echo -e "\033[01;31m●❯─────────────────────────────────────────────────────────────────❮●\033[0m"
         echo -e "\033[1;34mDADOS DE USUÁRIOS ENCONTRADO!"
         echo ""
+        function white {
+        echo -e "${white}${1}${end}"
+        }
         echo -e "\033[0;36m LOGINS"
         echo -e "\033[0;36m SENHAS"
         echo -e "\033[0;36m LIMITE"
