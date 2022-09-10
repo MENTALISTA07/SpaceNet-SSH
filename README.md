@@ -17,5 +17,5 @@ Só joga na máquina e deixar instalar
 
 • Instalação única do script
 ```
-wget https://raw.githubusercontent.com/MENTALISTA07/SpaceNet-SSH/main/Plus && chmod 777 Plus && ./Plus
+wget https://raw.githubusercontent.com/MENTALISTA07/SpaceNet-SSH/main/Naw && chmod 777 Naw && ./Naw
 ```
