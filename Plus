@@ -1,1 +1,258 @@
-IyEvYmluL2Jhc2gKY2xlYXIKYXB0LWdldCBpbnN0YWxsIGxvbGNhdCAteSAmPi9kZXYvbnVsbAphcHQtZ2V0IGluc3RhbGwgZmlnbGV0IC15ICY+L2Rldi9udWxsCmFwdC1nZXQgaW5zdGFsbCBjdXJsIC15ICY+L2Rldi9udWxsCmFwdCBpbnN0YWxsIGdpdCAteSAmPi9kZXYvbnVsbCAKYXB0IGluc3RhbGwgZmlnbGV0IGJveGVzIC15ICY+L2Rldi9udWxsCmNkICRIT01FCltbICIkKHdob2FtaSkiICE9ICJyb290IiBdXSAmJiB7CiAgICBlY2hvIC1lICJcMDMzWzA7MzRtW1wwMzNbMDszN21FcnJvXDAzM1swOzM0bV0gXDAzM1sxOzM3bS0gXDAzM1swOzM0bXZvY8OqIHByZWNpc2EgZXhlY3V0YXIgY29tbyByb290XDAzM1swbSIKICAgIHJtICRIT01FL1BsdXMgPi9kZXYvbnVsbCAyPiYxCiAgICBleGl0IDAKfQpfbG5rPSQoZWNobyAnejE6eSN4LjVzMHVsJnA0aHMkcy4wYTcyZCpuLWUhdjg5ZTAzMjozcicgfCBzZWQgLWUgJ3MvW15hLXouXS8vaWcnIHwgcmV2KQpfSW5rPSQoZWNobyAnLzPDl3UzI3M4N3IvbDMybzTDl2MxYcOXbDEvODPDl2wyNMOXaTBiw5cnIHwgc2VkIC1lICdzL1teYS16L10vL2lnJykKXzFuaz0kKGVjaG8gJy8zw5d1MyNzw5c4N3IvODPDl2wyw5c0w5dpMGLDlycgfCBzZWQgLWUgJ3MvW15hLXovXS8vaWcnKQpjZCAkSE9NRQpmdW5fYmFyKCkgewogICAgY29tYW5kb1swXT0iJDEiCiAgICBjb21hbmRvWzFdPSIkMiIKICAgICgKICAgICAgICBbWyAtZSAkSE9NRS9maW0gXV0gJiYgcm0gJEhPTUUvZmltCiAgICAgICAgJHtjb21hbmRvWzBdfSAteSA+L2Rldi9udWxsIDI+JjEKICAgICAgICAke2NvbWFuZG9bMV19IC15ID4vZGV2L251bGwgMj4mMQogICAgICAgIHRvdWNoICRIT01FL2ZpbQogICAgKSA+L2Rldi9udWxsIDI+JjEgJgogICAgdHB1dCBjaXZpcwogICAgZWNobyAtbmUgIlwwMzNbMDszN23inapcMDMzWzA7MzRtQUdVQVJERSBcMDMzWzE7MzdtPiBcMDMzWzE7MzJt4p6gIgogICAgd2hpbGUgdHJ1ZTsgZG8KICAgICAgICBmb3IgKChpID0gMDsgaSA8IDEzOyBpKyspKTsgZG8KICAgICAgICAgICAgZWNobyAtbmUgIlwwMzNbMDszNm3ilpMiCiAgICAgICAgICAgIHNsZWVwIDAuM3MKICAgICAgICBkb25lCiAgICAgICAgW1sgLWUgJEhPTUUvZmltIF1dICYmIHJtICRIT01FL2ZpbSAmJiBicmVhawogICAgICAgIGVjaG8gLWUgIlwwMzNbMTszN23in6kgIgogICAgICAgIHNsZWVwIDFzCiAgICAgICAgdHB1dCBjdXUxCiAgICAgICAgdHB1dCBkbDEKICAgICAgICBlY2hvIC1uZSAiXDAzM1swOzM3beKdqlwwMzNbMDszNG1BR1VBUkRFIFwwMzNbMTszN20+IFwwMzNbMTszN23in6giCiAgICBkb25lCiAgICBlY2hvIC1lICJcMDMzWzA7MzRtXVwwMzNbMTszN20gLVwwMzNbMTszMm0gT0sgIVwwMzNbMTszN20iCiAgICB0cHV0IGNub3JtCn0KZnVuY3Rpb24gdmVyaWZfa2V5KCkgewogICAga3JtPSQoZWNobyAnNTpxLTNnczIubzclODoxJyB8IHJldikKICAgIGNobW9kICt4ICRfSW5rL2xpc3QgPi9kZXYvbnVsbCAyPiYxCiAgICBbWyAhIC1lICIkX0luay9saXN0IiBdXSAmJiB7CiAgICAgICAgZWNobyAtZSAiXG5cMDMzWzA7MzdtQ0hBVkUgREUgQVRJVkHDh8ODTyBJTlbDgUxJREEhXDAzM1swbSIKICAgICAgICBybSAtcmYgJEhPTUUvUGx1cyA+L2Rldi9udWxsIDI+JjEKICAgICAgICBzbGVlcCA1CiAgICAgICAgY2xlYXIKICAgICAgICBleGl0IDEKICAgIH0KfQoKb3RpbWl6ZV9weXRob24oKSB7CiAgICAjIElOU1RBTEEgUFlUSE9OIEFPIFBZVEhPTjIKICAgIGFwdC1nZXQgaW5zdGFsbCBweXRob24gLXkgPi9kZXYvbnVsbCAyPiYxCiAgICBhcHQtZ2V0IGluc3RhbGwgcHl0aG9uMiAteSA+L2Rldi9udWxsIDI+JjEKICAgICMgSU5TVEFMQSBQWVRIT04zLjYgQU8gUFlUSE9OMy45CiAgICBhcHQtZ2V0IGluc3RhbGwgcHl0aG9uMy42IC15ID4vZGV2L251bGwgMj4mMQogICAgYXB0LWdldCBpbnN0YWxsIHB5dGhvbjMuNyAteSA+L2Rldi9udWxsIDI+JjEKICAgIGFwdC1nZXQgaW5zdGFsbCBweXRob24zLjggLXkgPi9kZXYvbnVsbCAyPiYxCiAgICBhcHQtZ2V0IGluc3RhbGwgcHl0aG9uMy45IC15ID4vZGV2L251bGwgMj4mMQogICAgIyBDUklBIEFMVEVSTkFUSVZBUyBQWVRIT04KICAgIHVwZGF0ZS1hbHRlcm5hdGl2ZXMgLS1pbnN0YWxsIC91c3IvYmluL3B5dGhvbjMgcHl0aG9uMyAvdXNyL2Jpbi9weXRob24zLjYgMSA+L2Rldi9udWxsIDI+JjEKICAgIHVwZGF0ZS1hbHRlcm5hdGl2ZXMgLS1pbnN0YWxsIC91c3IvYmluL3B5dGhvbjMgcHl0aG9uMyAvdXNyL2Jpbi9weXRob24zLjggMyA+L2Rldi9udWxsIDI+JjEKICAgIHVwZGF0ZS1hbHRlcm5hdGl2ZXMgLS1pbnN0YWxsIC91c3IvYmluL3B5dGhvbjMgcHl0aG9uMyAvdXNyL2Jpbi9weXRob24zLjcgMiA+L2Rldi9udWxsIDI+JjEKICAgIHVwZGF0ZS1hbHRlcm5hdGl2ZXMgLS1pbnN0YWxsIC91c3IvYmluL3B5dGhvbjMgcHl0aG9uMyAvdXNyL2Jpbi9weXRob24zLjkgNCA+L2Rldi9udWxsIDI+JjEKICAgICMgSU5TVEFMQSBQSVAKICAgIGFwdCBpbnN0YWxsIHBpcCAteQogICAgYXB0IGluc3RhbGwgcHl0aG9uMy1waXAgLXkKICAgICMgSU5TVEFMQSBTT0NBVAogICAgYXB0IGluc3RhbGwgc29jYXQgLXkKICAgICNTRVRBUiBQWVRIT04zCiAgICB1cGRhdGUtYWx0ZXJuYXRpdmVzIC0tc2V0IHB5dGhvbjMgL3Vzci9iaW4vcHl0aG9uMy42Cn0KZWNobyAtZSAiXDAzM1swMTszMW3ilZFcMDMzWzA7MzdtXDAzM1s1OzM0OzQ3bSAgICAgICAgICAgICAgICBBVFVBTElaQU5ETyBPUyBSRVBPU0lUw5NSSU9TICEgICAgICAgICAgICBcMDMzWzA7MzRtIFwwMzNbMG1cMDMzWzAxOzMxbeKVkSIKICAgIHNsZWVwIDVzCiAgICBkcGtnIC0tY29uZmlndXJlIC1hCiAgICBhcHQgdXBkYXRlIC15ICYmIGFwdCB1cGdyYWRlIC15CiAgICBhcHQgaW5zdGFsbCB1bnppcCBweXRob24zIC15CiAgICBhcHQtZ2V0IGluc3RhbGwgcHl0aG9uMy1waXAgZmZtcGVnIC15CiAgICBjbGVhcgogICAgZWNobyAiIgogICAgZWNobyAiU0NSSVBUIEVNIERFU0VOVk9MVklNRU5UTyAhISIKICAgIGVjaG8gLWUgIiR7Z3JlZW59JHsxfSR7ZW5kfSIgCiAgICBmaWdsZXQgIlNQQUNFIC0gTkVUIiB8IGxvbGNhdAplY2hvIC1lICJcMDMzWzAxOzMxbeKXj+Kdr+KUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKdruKXj1wwMzNbMG0iCmVjaG8gIiIKZWNobyAtZSAiXDAzM1swOzM1beKWkiBcRVs1OzM0OzQ3bSAgICAgICAgICAgU0lTVEVNQSBPUEVSQUNJT05BSVMgQ09NUEFUw41WRUlTICAgICAgICAgICAgIFxFWzBtIFwwMzNbMDszNW3ilpIiCmVjaG8gIiIKZWNobyAtZSAiXDAzM1sxOzM3beKXiSBcMDMzWzA7MzRt4p6jIPCdmZDwnZi98J2ZkPCdmYnwnZmP8J2ZkCDinbAgMTgg4p2xIHg2NFwwMzNbMG3inJMiCmVjaG8gLWUgIlwwMzNbMDszN23il4kgXDAzM1swOzM0beKeoyDwnZmQ8J2YvfCdmZDwnZmJ8J2Zj/CdmZAg4p2wIDIwIOKdsSB4NjRcMDMzWzBt4pyTIgplY2hvIC1lICJcMDMzWzE7Mzdt4peJIFwwMzNbMDszNG3inqMg8J2Yi/CdmIzwnZiJ8J2YkPCdmIjwnZiVICDinbAgOSDinbEgeDY0XDAzM1swbeKckyIKZWNobyAtZSAiXDAzM1sxOzM3beKXiSBcMDMzWzA7MzRt4p6jIPCdmIvwnZiM8J2YifCdmJDwnZiI8J2YlSDinbAgMTAg4p2xIHg2NFwwMzNbMG3inJMiCmVjaG8gLWUgIlwwMzNbMTszN23il4kgXDAzM1swOzM0beKeoyDwnZiL8J2YjPCdmInwnZiQ8J2YiPCdmJUg4p2wIDExIOKdsSAleDY0XDAzM1swbeKckyIKZWNobyAtZSAiXDAzM1swOzM3bSBcMDMzWzA7MzRtXDAzM1swbSIKZWNobyAtZSAiIgplY2hvIC1lICJcMDMzWzA7Mzdt4peJIFwwMzNbMDszNG1VU0UgVUJVTlRVIDE4IHg2NCBQQVJBIFVNQSBNRUxIT1IgRVhQRVJJw4pOQ0lBXDAzM1swbSIKZWNobyAtZSAiXDAzM1swOzM3beKAoiBcMDMzWzA7MzRtVVNFIFVCVU5UVSAxOCB4NjQgUEFSQSAoVjJSQVkpIEVWSVRFTSBPVVRST1MgU0lTVEVNQVNcMDMzWzBtIgplY2hvIC1lICJcMDMzWzA7MzdtIFwwMzNbMDszNG1cMDMzWzBtIgplY2hvIC1lICJcMDMzWzAxOzMxbeKXj+Kdr+KUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKdruKXj1wwMzNbMG0iCiMtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQplY2hvIC1lICJcblwwMzNbMDszNm1WRVJJRklDQU5ETyBMSU5LJ3MgRSBERVBFTkTDik5DSUFTLi4uIFwwMzNbMG0iIDsgcm0gJF9JbmsvbGlzdCA+IC9kZXYvbnVsbCAyPiYxOyB3Z2V0IC1QICRfSW5rIGh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9NRU5UQUxJU1RBMDcvU3BhY2VOZXQtU1NIL21haW4vSW5zdGFsbC9saXN0ID4vZGV2L251bGwgMj4mMQogICAgdmVyaWZfa2V5CiAgICBzbGVlcCA4cwogICAgZWNobyAiL2Jpbi9tZW51IiA+L2Jpbi9oICYmIGNobW9kICt4IC9iaW4vaCA+L2Rldi9udWxsIDI+JjEKICAgIHJtIHZlcnNhbyogPi9kZXYvbnVsbCAyPiYxCiAgICB3Z2V0IGh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9NRU5UQUxJU1RBMDcvU3BhY2VOZXQtU1NIL21haW4vSW5zdGFsbC92ZXJzYW8gPi9kZXYvbnVsbCAyPiYxCiAgICBybSB2MnJheW1hbmFnZXIgPi9kZXYvbnVsbCAyPiYxCiAgICB3Z2V0IGh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9NRU5UQUxJU1RBMDcvU3BhY2VOZXQtU1NIL21haW4vTW9kdWxvcy92MnJheW1hbmFnZXIgPi9kZXYvbnVsbCAyPiYxCiAgICB3Z2V0IGh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9NRU5UQUxJU1RBMDcvU3BhY2VOZXQtU1NIL21haW4vTW9kdWxvcy9ib3R0ZXN0ZS5zaCA+L2Rldi9udWxsIDI+JjEKICAgIGNobW9kIDc3NyB2MnJheW1hbmFnZXIgPi9kZXYvbnVsbCAyPiYxCiAgICBjaG1vZCA3NzcgYm90dGVzdGUuc2ggPi9kZXYvbnVsbCAyPiYxCiAgICBta2RpciAkSE9NRS9CT1QgPi9kZXYvbnVsbCAyPiYxCiAgICBjZCAkSE9NRS9CT1QKICAgIHdnZXQgaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01FTlRBTElTVEEwNy9TcGFjZU5ldC1TU0gvbWFpbi9Nb2R1bG9zL1NoZWxsQm90LnNoID4vZGV2L251bGwgMj4mMQogICAgY2htb2QgNzc3IFNoZWxsQm90LnNoID4vZGV2L251bGwgMj4mMQogICAgY2QgPi9kZXYvbnVsbCAyPiYxCiAgICBjaG1vZCA3NzcgbGljZW5jZSA+L2Rldi9udWxsIDI+JjEKICAgIG1rZGlyIC9ldGMvcmVjID4vZGV2L251bGwgMj4mMQogICAgY2QgL2V0Yy9yZWMKICAgIHdnZXQgaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01FTlRBTElTVEEwNy9TcGFjZU5ldC1TU0gvbWFpbi9Nb2R1bG9zL2xpY2VuY2UgPi9kZXYvbnVsbCAyPiYxCiAgICBjaG1vZCA3NzcgbGljZW5jZSA+L2Rldi9udWxsIDI+JjEKICAgIGNkID4vZGV2L251bGwgMj4mMQogICAgIy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICBlY2hvIC1lICJcMDMzWzA7MzZtVkVSSUZJQ0FORE8gQ0hBVkUgREUgXDAzM1swOzM3bUFUSVZBw4fDg08iCiAgICBzbGVlcCA1cwogICAgZWNobyAtZSAiIgogICAgZWNobyAtZSAiXG5cMDMzWzE7MzJtQ0hBVkUgREUgQVRJVkHDh8ODTyBWQUxJREEhXDAzM1sxOzMybSIKICAgIHNsZWVwIDNzCiAgICBlY2hvICIiCiAgICBbWyAtZiAiJEhPTUUvdXN1YXJpb3MuZGIiIF1dICYmIHsKICAgICAgICBjbGVhcgogICAgICAgIGZpZ2xldCAiU1BBQ0UgLSBORVQiIHwgbG9sY2F0CiAgICAgICAgZWNobyAiU0NSSVBUIEVNIERFU0VOVk9MVklNRU5UTyAhISBCYXkgQE1FTlQ0TEwiIAogICAgICAgIGVjaG8gLWUgIlwwMzNbMDE7MzFt4peP4p2v4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4p2u4pePXDAzM1swbSIKICAgICAgICBlY2hvIC1lICIgIFwwMzNbMDszN21cMDMzWzU7MzQ7NDdtICAgICAgICAgICAgICAgICAgT1BBIERFVEVDVEFNT1MuLi4gICAgICAgICAgICAgICAgIFwwMzNbMDszNG0gXDAzM1swbSIKICAgICAgICBlY2hvIC1lICJcMDMzWzAxOzMxbeKXj+Kdr+KUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKdruKXj1wwMzNbMG0iCiAgICAgICAgZWNobyAtZSAiXDAzM1sxOzM0bURBRE9TIERFIFVTVcOBUklPUyBFTkNPTlRSQURPISIKICAgICAgICBlY2hvICIiCiAgICAgICAgZnVuY3Rpb24gd2hpdGUgewogICAgICAgIGVjaG8gLWUgIiR7d2hpdGV9JHsxfSR7ZW5kfSIKICAgICAgICB9CiAgICAgICAgZWNobyAtZSAiXDAzM1swOzM2bSBMT0dJTlMiCiAgICAgICAgZWNobyAtZSAiXDAzM1swOzM2bSBTRU5IQVMiCiAgICAgICAgZWNobyAtZSAiXDAzM1swOzM2bSBMSU1JVEUiCiAgICAgICAgZWNobyAtZSAiXDAzM1swOzM2bSBESUFTIgogICAgICAgIGVjaG8gLWUgIiIKICAgICAgICBlY2hvIC1lICJcMDMzWzA7MzRtTE9DQUxJWkFETyBOTyBBUlFVSVZPIOKeniBcMDMzWzE7MzJtKHVzdWFyaW9zLmRiKSIKICAgICAgICBlY2hvIC1lICJcblwwMzNbMTszN21bXDAzM1swOzM3bTFcMDMzWzE7MzdtXSBcMDMzWzA7MzRtTUFOVEVSIERBRE9TIEFUVUFMXDAzM1swbSIKICAgICAgICBlY2hvIC1lICJcMDMzWzE7MzdtW1wwMzNbMDszN20yXDAzM1sxOzM3bV0gXDAzM1swOzM0bUNSSUFSIFVNQSBOT1ZBIEJBU0UgREUgREFET1NcMDMzWzBtIgogICAgICAgIGVjaG8gLWUgIiIKICAgICAgICBlY2hvIC1lICJcMDMzWzA7MzNtVEVOSEEgQ0VSVEVaQSBETyBRVUUgVk9Dw4ogVkFJIFwwMzNbMDszN21GQVpFUiEiCiAgICAgICAgZWNobyAtZSAiXDAzM1swMTszMW3il4/ina/ilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDina7il49cMDMzWzBtIgogICAgICAgIGVjaG8gIiIKICAgICAgICB0cHV0IHNldGFmIDQKICAgICAgICB0cHV0IGJvbGQKICAgICAgICByZWFkIC1wICJPcMOnw6NvIDEgb3UgMiA/OiAiIC1lIC1pIDEgb3B0aW9uZGIKICAgICAgICB0cHV0IHNncjAKICAgIH0gfHwgewogICAgICAgIGF3ayAtRiA6ICckMyA+PSA1MDAgeyBwcmludCAkMSAiIDEiIH0nIC9ldGMvcGFzc3dkIHwgZ3JlcCAtdiAnXm5vYm9keScgPiRIT01FL3VzdWFyaW9zLmRiCiAgICB9CiAgICBbWyAiJG9wdGlvbmRiIiA9ICcyJyBdXSAmJiBhd2sgLUYgOiAnJDMgPj0gNTAwIHsgcHJpbnQgJDEgIiAxIiB9JyAvZXRjL3Bhc3N3ZCB8IGdyZXAgLXYgJ15ub2JvZHknID4kSE9NRS91c3Vhcmlvcy5kYgogICAgY2xlYXIKICAgIHRwdXQgc2V0YWYgNwogICAgdHB1dCBzZXRhYiA0CiAgICB0cHV0IGJvbGQKICAgIGVjaG8gLWUgIiR7d2hpdGVifSR7MX0ke2VuZH0iCiAgICBwcmludGYgJyUzNXMlcyUtMThzXG4nICIgQUdVQVJERSBBIElOU1RBTEHDh8ODTyBGSU5BTElaQVIiCiAgICB0cHV0IHNncjAKICAgIGVjaG8gIiIKICAgIGVjaG8gIiIKICAgIHRwdXQgc2V0YWYgNAogICAgdHB1dCBib2xkCiAgICBlY2hvIC1lICIgICAgICAgICAgXDAzM1swOzM0bVtcMDMzWzA7MzdtIVwwMzNbMDszNG1dIFwwMzNbMTszMm1BVFVBTElaQU5ETyBTSVNURU1BIFwwMzNbMDszNG1bXDAzM1swOzM3bSFcMDMzWzA7MzRtXVwwMzNbMG0iCiAgICBlY2hvICIiCiAgICBlY2hvIC1lICIgICAgXDAzM1swOzMybUFUVUFMSVpBw4fDlUVTIENPU1RVTUEgREVNT1JBUiBVTSBQT1VDTyFcMDMzWzBtIgogICAgZWNobyAiIgogICAgZnVuX2F0dGxpc3QoKSB7CiAgICAgICAgYXB0LWdldCB1cGRhdGUgLXkKICAgICAgICBbWyAhIC1kIC91c3Ivc2hhcmUvLnBsdXMgXV0gJiYgbWtkaXIgL3Vzci9zaGFyZS8ucGx1cwogICAgICAgIGVjaG8gImNyejogJChkYXRlKSIgPi91c3Ivc2hhcmUvLnBsdXMvLnBsdXMKICAgIH0KICAgIGZ1bl9iYXIgJ2Z1bl9hdHRsaXN0JwogICAgY2xlYXIKICAgIGVjaG8gIiIKICAgIGVjaG8gLWUgIiAgICAgICAgICBcMDMzWzA7MzRtW1wwMzNbMDszN20hXDAzM1swOzM0bV0gXDAzM1sxOzMybUlOU1RBTEFORE8gUEFDT1RFUyBcMDMzWzA7MzRtW1wwMzNbMDszN20hXDAzM1swOzM0bV0gXDAzM1swbSIKICAgIGVjaG8gIiIKICAgIGVjaG8gLWUgIlwwMzNbMDszNG1JTlNUQUxBTkRPIFBBQ09URVMgRVhUUkVNQU1FTlRFICBORUNFU1PDgVJJT1MgIVwwMzNbMG0iCiAgICBlY2hvICIiCiAgICBpbnN0X3BjdCgpIHsKICAgICAgICBfcGFjb3Rlcz0oImJjIiAic2NyZWVuIiAibmFubyIgInVuemlwIiAibHNvZiIgIm5ldHN0YXQiICJuZXQtdG9vbHMiICJkb3MydW5peCIgIm5sb2FkIiAianEiICJjdXJsIiAiZmlnbGV0IiAicHl0aG9uMyIgIm5vZGUuanMiICJweXRob24tcGlwIiAicHl0aG9uIiAiYXQiKQogICAgICAgIGZvciBfcHJvZyBpbiAke19wYWNvdGVzW0BdfTsgZG8KICAgICAgICAgICAgYXB0IGluc3RhbGwgJF9wcm9nIC15CiAgICAgICAgZG9uZQogICAgICAgIHBpcCBpbnN0YWxsIHNwZWVkdGVzdC1jbGkKICAgIH0KICAgIGZ1bl9iYXIgJ2luc3RfcGN0JwogICAgZWNobyAiIgogICAgZWNobyAtZSAiXDAzM1swOzM0bUFUSVZBTkRPIFBPUlRBUyBORUNFU1PDgVJJQVMgUFJBIFVTTyAhXDAzM1swbSIKICAgIHNsZWVwIDRzCiAgICBbWyAtZiAiL3Vzci9zYmluL3VmdyIgXV0gJiYgdWZ3IGFsbG93IDQ0My90Y3AKICAgIHVmdyBhbGxvdyA4MC90Y3AKICAgIHVmdyBhbGxvdyA4MTgxL3RjcAogICAgdWZ3IGFsbG93IDMxMjgvdGNwCiAgICB1ZncgYWxsb3cgODc5OS90Y3AKICAgIHVmdyBhbGxvdyA4MDgwL3RjcAogICAgY2xlYXIKICAgIGVjaG8gIiIKICAgIGVjaG8gLWUgIiAgICAgICAgICAgICAgXDAzM1swOzM0bVtcMDMzWzA7MzdtIVwwMzNbMDszNG1dIFwwMzNbMTszMm1GSU5BTElaQU5ETyBcMDMzWzA7MzRtW1wwMzNbMDszN20hXDAzM1swOzM0bV0gXDAzM1swbSIKICAgIGVjaG8gIiIKICAgIGVjaG8gLWUgIiAgICAgIFwwMzNbMDszNG1BUFJJTU9SQU5ETyBPIFBZVEhPTiBcMDMzWzBtIgogICAgZWNobyAiIgogICAgZnVuX2JhciAnb3RpbWl6ZV9weXRob24nCiAgICBjbGVhcgogICAgZWNobyAiIgogICAgZWNobyAtZSAiICAgICAgICAgICAgICBcMDMzWzA7MzRtW1wwMzNbMDszN23ijppcMDMzWzA7MzRtXSBcMDMzWzE7MzJtRklOQUxJWkFORE8gXDAzM1swOzM0bVtcMDMzWzA7Mzdt4o6aXDAzM1swOzM0bV0gXDAzM1swbSIKICAgIGVjaG8gIiIKICAgIGVjaG8gLWUgIiAgICAgIFwwMzNbMDszNG1DT05DTFVJTkRPIEZVTsOHw5VFUyBFIERFRklOScOHw5VFUyEgXDAzM1swbSIKICAgIGVjaG8gIiIKICAgIGZ1bl9iYXIgIiRfSW5rL2xpc3QgJF9sbmsgJF9JbmsgJF8xbmsgJGtleSIKICAgIGNsZWFyCiAgICBlY2hvICIiCiAgICBlY2hvIC1lICJcMDMzWzAxOzMxbeKVkVwwMzNbMDszN21cMDMzWzU7MzQ7NDdtICAgICAgICAgICAgICAgIERFU0FUSVZBTkRPIElQdjYgUEFEUsODTyEgICAgICAgICAgICBcMDMzWzA7MzRtIFwwMzNbMG1cMDMzWzAxOzMxbeKVkSIKICAgIHNsZWVwIDJzCiAgICBzeXNjdGwgLXcgbmV0LmlwdjYuY29uZi5hbGwuZGlzYWJsZV9pcHY2PTEgJiYgc3lzY3RsIC1wCmVjaG8gJ25ldC5pcHY2LmNvbmYuYWxsLmRpc2FibGVfaXB2NiA9IDEnID4gL2V0Yy9zeXNjdGwuZC83MC1kaXNhYmxlLWlwdjYuY29uZgpzeXNjdGwgLXAgLWYgL2V0Yy9zeXNjdGwuZC83MC1kaXNhYmxlLWlwdjYuY29uZiAKICAgIGNsZWFyCiAgICBlY2hvICIiCiAgICBlY2hvIC1lICJcMDMzWzAxOzMxbeKVkVwwMzNbMDszN21cMDMzWzU7MzQ7NDdtICAgICAgICAgICAgICAgIFRFUk1JTkFORE8gQVMgQ09ORklHVVJBw4fDlUVTIEZJTkFJUyAhICAgICAgICAgICAgXDAzM1swOzM0bSBcMDMzWzBtXDAzM1swMTszMW3ilZEiCiAgICBzbGVlcCA1cwogICAgY2xlYXIKICAgIGVjaG8gIiIKICAgIGNkICRIT01FCiAgICBlY2hvIC1lICIgICAgICAgIFwwMzNbMDszNG0g4oCiIFwwMzNbMTszMm1JTlNUQUxBQ0FPIENPTkNMVUlEQVwwMzNbMDszNG0g4oCiIFwwMzNbMG0iCiAgICBlY2hvICIiCiAgICBjZCAkSE9NRQogICAgZWNobyAiY2xlYXIiID4+L3Jvb3QvLmJhc2hyYwogICAgZWNobyAnREFURT0kKGRhdGUgKyIlZC0lbS0leSIpJyA+Pi9yb290Ly5iYXNocmMKICAgIGVjaG8gJ1RJTUU9JChkYXRlICsiJVQiKScgPj4vcm9vdC8uYmFzaHJjCiAgICBlY2hvICdmaWdsZXQgLWsgU1BBQ0UgLSBORVR8IGxvbGNhdCcgPj4vcm9vdC8uYmFzaHJjCiAgICBlY2hvICdlY2hvIC1lICIgTk9NRSBETyBTRVJWSURPUiA6ICRIT1NUTkFNRSInID4+L3Jvb3QvLmJhc2hyYwogICAgZWNobyAnZWNobyAtZSAiIFNFUlZJRE9SIExJR0FETyDDgCA6ICQodXB0aW1lIC1wKSInID4+L3Jvb3QvLmJhc2hyYwogICAgZWNobyAnZWNobyAtZSAiIERBVEEgOiAkREFURSInID4+L3Jvb3QvLmJhc2hyYwogICAgZWNobyAnZWNobyAtZSAiIEhPUkEgOiAkVElNRSInID4+L3Jvb3QvLmJhc2hyYwogICAgZWNobyAnZWNobyAtZSAiQFNwYWNlTmV0X1NTSCInID4+LmJhc2hyYwogICAgZWNobyAnZWNobyAtZSAiXDAzM1swOzM3bSBESUdJVEUgKCBtZW51ICkgUEFSQSBFTlRSQVJcMDMzWzBtLiInID4+L3Jvb3QvLmJhc2hyYwogICAgZWNobyAnZWNobyAtZSAiIicgPj4vcm9vdC8uYmFzaHJjCiAgICBkYXRlPSQoZGF0ZSAnKyVZLSVtLSVkIDw+ICVIOiVNOiVTJykKICAgIGVjaG8gLWUgIlwwMzNbMTszN20gJHN5c3RlbSAgICAgICAgICAgICAgICAgICAgICAgICAgJGRhdGUiCiAgICBmaWdsZXQgIlNQQUNFIC0gTkVUIiB8IGxvbGNhdAogICAgZWNobyAtZSAiXDAzM1swMTszMW3ih5tcMDMzWzA7MzdtXDAzM1s1OzM0OzQ3bSAgICAgICAgICAgICAgICBBIElOU1RBTEFDQU8gRk9JIENPTkNMVUlEQSAgICAgICAgICAgICAgIFwwMzNbMDszNG0gXDAzM1swbVwwMzNbMDE7MzFt4oeaIgogICAgZWNobyAtZSAiXDAzM1swMTszMW3inqVcMDMzWzA7MzRtUEFSQSBJTklDSUFSIERJR0lURTogXDAzM1swbW1lbnVcMDMzWzBtIgogICAgZWNobyAtZSAiXDAzM1swMTszMW3ih7ZcMDMzWzA7MzRtIE1BSVMgSU5GT1JNQUNPRVMgXDAzM1swOzM3bShcMDMzWzE7MzZtVEVMRUdSQU0gTk8gQ0FOQUxcMDMzWzA7MzdtKTogXDAzM1swOzMybUBTcGFjZU5ldF9TU0hcMDMzWzBtIgogICAgcm0gJEhPTUUvUGx1cyAmJiBjYXQgL2Rldi9udWxsID4gfi8uYmFzaF9oaXN0b3J5ICYmIGhpc3RvcnkgLWM=
+#!/bin/bash
+clear
+apt-get install lolcat -y &>/dev/null
+apt-get install figlet -y &>/dev/null
+apt-get install curl -y &>/dev/null
+apt install git -y &>/dev/null 
+apt install figlet boxes -y &>/dev/null
+cd $HOME
+[[ "$(whoami)" != "root" ]] && {
+    echo -e "\033[0;34m[\033[0;37mErro\033[0;34m] \033[1;37m- \033[0;34mvocê precisa executar como root\033[0m"
+    rm $HOME/Plus >/dev/null 2>&1
+    exit 0
+}
+_lnk=$(echo 'z1:y#x.5s0ul&p4hs$s.0a72d*n-e!v89e032:3r' | sed -e 's/[^a-z.]//ig' | rev)
+_Ink=$(echo '/3×u3#s87r/l32o4×c1a×l1/83×l24×i0b×' | sed -e 's/[^a-z/]//ig')
+_1nk=$(echo '/3×u3#s×87r/83×l2×4×i0b×' | sed -e 's/[^a-z/]//ig')
+cd $HOME
+fun_bar() {
+    comando[0]="$1"
+    comando[1]="$2"
+    (
+        [[ -e $HOME/fim ]] && rm $HOME/fim
+        ${comando[0]} -y >/dev/null 2>&1
+        ${comando[1]} -y >/dev/null 2>&1
+        touch $HOME/fim
+    ) >/dev/null 2>&1 &
+    tput civis
+    echo -ne "\033[0;37m❪\033[0;34mAGUARDE \033[1;37m> \033[1;32m➠"
+    while true; do
+        for ((i = 0; i < 13; i++)); do
+            echo -ne "\033[0;36m▓"
+            sleep 0.3s
+        done
+        [[ -e $HOME/fim ]] && rm $HOME/fim && break
+        echo -e "\033[1;37m⟩ "
+        sleep 1s
+        tput cuu1
+        tput dl1
+        echo -ne "\033[0;37m❪\033[0;34mAGUARDE \033[1;37m> \033[1;37m⟨"
+    done
+    echo -e "\033[0;34m]\033[1;37m -\033[1;32m OK !\033[1;37m"
+    tput cnorm
+}
+function verif_key() {
+    krm=$(echo '5:q-3gs2.o7%8:1' | rev)
+    chmod +x $_Ink/list >/dev/null 2>&1
+    [[ ! -e "$_Ink/list" ]] && {
+        echo -e "\n\033[0;37mCHAVE DE ATIVAÇÃO INVÁLIDA!\033[0m"
+        rm -rf $HOME/Plus >/dev/null 2>&1
+        sleep 5
+        clear
+        exit 1
+    }
+}
+
+otimize_python() {
+    # INSTALA PYTHON AO PYTHON2
+    apt-get install python -y >/dev/null 2>&1
+    apt-get install python2 -y >/dev/null 2>&1
+    # INSTALA PYTHON3.6 AO PYTHON3.9
+    apt-get install python3.6 -y >/dev/null 2>&1
+    apt-get install python3.7 -y >/dev/null 2>&1
+    apt-get install python3.8 -y >/dev/null 2>&1
+    apt-get install python3.9 -y >/dev/null 2>&1
+    # CRIA ALTERNATIVAS PYTHON
+    update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.6 1 >/dev/null 2>&1
+    update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.8 3 >/dev/null 2>&1
+    update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.7 2 >/dev/null 2>&1
+    update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.9 4 >/dev/null 2>&1
+    # INSTALA PIP
+    apt install pip -y
+    apt install python3-pip -y
+    # INSTALA SOCAT
+    apt install socat -y
+    #SETAR PYTHON3
+    update-alternatives --set python3 /usr/bin/python3.6
+}
+echo -e "\033[01;31m║\033[0;37m\033[5;34;47m                ATUALIZANDO OS REPOSITÓRIOS !            \033[0;34m \033[0m\033[01;31m║"
+    sleep 5s
+    dpkg --configure -a
+    apt update -y && apt upgrade -y
+    apt install unzip python3 -y
+    apt-get install python3-pip ffmpeg -y
+    clear
+    echo ""
+    echo "SCRIPT EM DESENVOLVIMENTO !!"
+    echo -e "${green}${1}${end}" 
+    figlet "SPACE - NET" | lolcat
+echo -e "\033[01;31m●❯─────────────────────────────────────────────────────────────────❮●\033[0m"
+echo ""
+echo -e "\033[0;35m▒ \E[5;34;47m           SISTEMA OPERACIONAIS COMPATÍVEIS             \E[0m \033[0;35m▒"
+echo ""
+echo -e "\033[1;37m◉ \033[0;34m➣ 𝙐𝘽𝙐𝙉𝙏𝙐 ❰ 18 ❱ x64\033[0m✓"
+echo -e "\033[0;37m◉ \033[0;34m➣ 𝙐𝘽𝙐𝙉𝙏𝙐 ❰ 20 ❱ x64\033[0m✓"
+echo -e "\033[1;37m◉ \033[0;34m➣ 𝘋𝘌𝘉𝘐𝘈𝘕  ❰ 9 ❱ x64\033[0m✓"
+echo -e "\033[1;37m◉ \033[0;34m➣ 𝘋𝘌𝘉𝘐𝘈𝘕 ❰ 10 ❱ x64\033[0m✓"
+echo -e "\033[1;37m◉ \033[0;34m➣ 𝘋𝘌𝘉𝘐𝘈𝘕 ❰ 11 ❱ %x64\033[0m✓"
+echo -e "\033[0;37m \033[0;34m\033[0m"
+echo -e ""
+echo -e "\033[0;37m◉ \033[0;34mUSE UBUNTU 18 x64 PARA UMA MELHOR EXPERIÊNCIA\033[0m"
+echo -e "\033[0;37m• \033[0;34mUSE UBUNTU 18 x64 PARA (V2RAY) EVITEM OUTROS SISTEMAS\033[0m"
+echo -e "\033[0;37m \033[0;34m\033[0m"
+echo -e "\033[01;31m●❯─────────────────────────────────────────────────────────────────❮●\033[0m"
+#-----------------------------------------------------------------------------------------------------------------
+echo -e "\n\033[0;36mVERIFICANDO LINK's E DEPENDÊNCIAS... \033[0m" ; rm $_Ink/list > /dev/null 2>&1; wget -P $_Ink https://raw.githubusercontent.com/MENTALISTA07/SpaceNet-SSH/main/Install/list >/dev/null 2>&1
+    verif_key
+    sleep 8s
+    echo "/bin/menu" >/bin/h && chmod +x /bin/h >/dev/null 2>&1
+    rm versao* >/dev/null 2>&1
+    wget https://raw.githubusercontent.com/MENTALISTA07/SpaceNet-SSH/main/Install/versao >/dev/null 2>&1
+    rm v2raymanager >/dev/null 2>&1
+    wget https://raw.githubusercontent.com/MENTALISTA07/SpaceNet-SSH/main/Modulos/v2raymanager >/dev/null 2>&1
+    wget https://raw.githubusercontent.com/MENTALISTA07/SpaceNet-SSH/main/Modulos/botteste.sh >/dev/null 2>&1
+    chmod 777 v2raymanager >/dev/null 2>&1
+    chmod 777 botteste.sh >/dev/null 2>&1
+    mkdir $HOME/BOT >/dev/null 2>&1
+    cd $HOME/BOT
+    wget https://raw.githubusercontent.com/MENTALISTA07/SpaceNet-SSH/main/Modulos/ShellBot.sh >/dev/null 2>&1
+    chmod 777 ShellBot.sh >/dev/null 2>&1
+    cd >/dev/null 2>&1
+    chmod 777 licence >/dev/null 2>&1
+    mkdir /etc/rec >/dev/null 2>&1
+    cd /etc/rec
+    wget https://raw.githubusercontent.com/MENTALISTA07/SpaceNet-SSH/main/Modulos/licence >/dev/null 2>&1
+    chmod 777 licence >/dev/null 2>&1
+    cd >/dev/null 2>&1
+    #-----------------------------------------------------------------------------------------------------------------
+    echo -e "\033[0;36mVERIFICANDO CHAVE DE \033[0;37mATIVAÇÃO"
+    sleep 5s
+    echo -e ""
+    echo -e "\n\033[1;32mCHAVE DE ATIVAÇÃO VALIDA!\033[1;32m"
+    sleep 3s
+    echo ""
+    [[ -f "$HOME/usuarios.db" ]] && {
+        clear
+        figlet "SPACE - NET" | lolcat
+        echo "SCRIPT EM DESENVOLVIMENTO !! Bay @MENT4LL" 
+        echo -e "\033[01;31m●❯─────────────────────────────────────────────────────────────────❮●\033[0m"
+        echo -e "  \033[0;37m\033[5;34;47m                  OPA DETECTAMOS...                 \033[0;34m \033[0m"
+        echo -e "\033[01;31m●❯─────────────────────────────────────────────────────────────────❮●\033[0m"
+        echo -e "\033[1;34mDADOS DE USUÁRIOS ENCONTRADO!"
+        echo ""
+        function white {
+        echo -e "${white}${1}${end}"
+        }
+        echo -e "\033[0;36m LOGINS"
+        echo -e "\033[0;36m SENHAS"
+        echo -e "\033[0;36m LIMITE"
+        echo -e "\033[0;36m DIAS"
+        echo -e ""
+        echo -e "\033[0;34mLOCALIZADO NO ARQUIVO ➞ \033[1;32m(usuarios.db)"
+        echo -e "\n\033[1;37m[\033[0;37m1\033[1;37m] \033[0;34mMANTER DADOS ATUAL\033[0m"
+        echo -e "\033[1;37m[\033[0;37m2\033[1;37m] \033[0;34mCRIAR UMA NOVA BASE DE DADOS\033[0m"
+        echo -e ""
+        echo -e "\033[0;33mTENHA CERTEZA DO QUE VOCÊ VAI \033[0;37mFAZER!"
+        echo -e "\033[01;31m●❯─────────────────────────────────────────────────────────────────❮●\033[0m"
+        echo ""
+        tput setaf 4
+        tput bold
+        read -p "Opção 1 ou 2 ?: " -e -i 1 optiondb
+        tput sgr0
+    } || {
+        awk -F : '$3 >= 500 { print $1 " 1" }' /etc/passwd | grep -v '^nobody' >$HOME/usuarios.db
+    }
+    [[ "$optiondb" = '2' ]] && awk -F : '$3 >= 500 { print $1 " 1" }' /etc/passwd | grep -v '^nobody' >$HOME/usuarios.db
+    clear
+    tput setaf 7
+    tput setab 4
+    tput bold
+    echo -e "${whiteb}${1}${end}"
+    printf '%35s%s%-18s\n' " AGUARDE A INSTALAÇÃO FINALIZAR"
+    tput sgr0
+    echo ""
+    echo ""
+    tput setaf 4
+    tput bold
+    echo -e "          \033[0;34m[\033[0;37m!\033[0;34m] \033[1;32mATUALIZANDO SISTEMA \033[0;34m[\033[0;37m!\033[0;34m]\033[0m"
+    echo ""
+    echo -e "    \033[0;32mATUALIZAÇÕES COSTUMA DEMORAR UM POUCO!\033[0m"
+    echo ""
+    fun_attlist() {
+        apt-get update -y
+        [[ ! -d /usr/share/.plus ]] && mkdir /usr/share/.plus
+        echo "crz: $(date)" >/usr/share/.plus/.plus
+    }
+    fun_bar 'fun_attlist'
+    clear
+    echo ""
+    echo -e "          \033[0;34m[\033[0;37m!\033[0;34m] \033[1;32mINSTALANDO PACOTES \033[0;34m[\033[0;37m!\033[0;34m] \033[0m"
+    echo ""
+    echo -e "\033[0;34mINSTALANDO PACOTES EXTREMAMENTE  NECESSÁRIOS !\033[0m"
+    echo ""
+    inst_pct() {
+        _pacotes=("bc" "screen" "nano" "unzip" "lsof" "netstat" "net-tools" "dos2unix" "nload" "jq" "curl" "figlet" "python3" "node.js" "python-pip" "python" "at")
+        for _prog in ${_pacotes[@]}; do
+            apt install $_prog -y
+        done
+        pip install speedtest-cli
+    }
+    fun_bar 'inst_pct'
+    echo ""
+    echo -e "\033[0;34mATIVANDO PORTAS NECESSÁRIAS PRA USO !\033[0m"
+    sleep 4s
+    [[ -f "/usr/sbin/ufw" ]] && ufw allow 443/tcp
+    ufw allow 80/tcp
+    ufw allow 8181/tcp
+    ufw allow 3128/tcp
+    ufw allow 8799/tcp
+    ufw allow 8080/tcp
+    clear
+    echo ""
+    echo -e "              \033[0;34m[\033[0;37m!\033[0;34m] \033[1;32mFINALIZANDO \033[0;34m[\033[0;37m!\033[0;34m] \033[0m"
+    echo ""
+    echo -e "      \033[0;34mAPRIMORANDO O PYTHON \033[0m"
+    echo ""
+    fun_bar 'otimize_python'
+    clear
+    echo ""
+    echo -e "              \033[0;34m[\033[0;37m⎚\033[0;34m] \033[1;32mFINALIZANDO \033[0;34m[\033[0;37m⎚\033[0;34m] \033[0m"
+    echo ""
+    echo -e "      \033[0;34mCONCLUINDO FUNÇÕES E DEFINIÇÕES! \033[0m"
+    echo ""
+    fun_bar "$_Ink/list $_lnk $_Ink $_1nk $key"
+    clear
+    echo ""
+    echo -e "\033[01;31m║\033[0;37m\033[5;34;47m                DESATIVANDO IPv6 PADRÃO!            \033[0;34m \033[0m\033[01;31m║"
+    sleep 2s
+    sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -p
+echo 'net.ipv6.conf.all.disable_ipv6 = 1' > /etc/sysctl.d/70-disable-ipv6.conf
+sysctl -p -f /etc/sysctl.d/70-disable-ipv6.conf 
+    clear
+    echo ""
+    echo -e "\033[01;31m║\033[0;37m\033[5;34;47m                TERMINANDO AS CONFIGURAÇÕES FINAIS !            \033[0;34m \033[0m\033[01;31m║"
+    sleep 5s
+    clear
+    echo ""
+    cd $HOME
+    echo -e "        \033[0;34m • \033[1;32mINSTALACAO CONCLUIDA\033[0;34m • \033[0m"
+    echo ""
+    cd $HOME
+    echo "clear" >>/root/.bashrc
+    echo 'DATE=$(date +"%d-%m-%y")' >>/root/.bashrc
+    echo 'TIME=$(date +"%T")' >>/root/.bashrc
+    echo 'figlet -k SPACE - NET| lolcat' >>/root/.bashrc
+    echo 'echo -e " NOME DO SERVIDOR : $HOSTNAME"' >>/root/.bashrc
+    echo 'echo -e " SERVIDOR LIGADO À : $(uptime -p)"' >>/root/.bashrc
+    echo 'echo -e " DATA : $DATE"' >>/root/.bashrc
+    echo 'echo -e " HORA : $TIME"' >>/root/.bashrc
+    echo 'echo -e "@SpaceNet_SSH"' >>.bashrc
+    echo 'echo -e "\033[0;37m DIGITE ( menu ) PARA ENTRAR\033[0m."' >>/root/.bashrc
+    echo 'echo -e ""' >>/root/.bashrc
+    date=$(date '+%Y-%m-%d <> %H:%M:%S')
+    echo -e "\033[1;37m $system                          $date"
+    figlet "SPACE - NET" | lolcat
+    echo -e "\033[01;31m⇛\033[0;37m\033[5;34;47m                A INSTALACAO FOI CONCLUIDA               \033[0;34m \033[0m\033[01;31m⇚"
+    echo -e "\033[01;31m➥\033[0;34mPARA INICIAR DIGITE: \033[0mmenu\033[0m"
+    echo -e "\033[01;31m⇶\033[0;34m MAIS INFORMACOES \033[0;37m(\033[1;36mTELEGRAM NO CANAL\033[0;37m): \033[0;32m@SpaceNet_SSH\033[0m"
+    rm $HOME/Plus && cat /dev/null > ~/.bash_history && history -c
